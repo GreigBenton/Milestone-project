@@ -1,10 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Spartan:wght@100;200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@200;300;400;500&family=Spartan:wght@100;200;300;400&display=swap');
 
+/*------------------------------------------------------- Nav*/
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar-brand {
+    font-family: Spartan; sans-serif;
+    font-size: 150%;
+    padding-left: 30px;
+}
+
+.nav-item {
+    font-family: Cinzel; sans-serif;
+    padding-left: 90px;
+    font-color: #000000;
+}
+
+.active {
+    font-weight: 500;
+}
 /*------------------------------------------------------- Colors*/
 
 /*------------------------------------------------------- Headings*/
 
 /*------------------------------------------------------- Landing page*/
+
+.landing-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.landingcta {
+    font-family: Spartan; sans-serif;
+    font-size: 235%;
+    font-weight: 300;
+    color: #000000;
+    text-shadow: 1px 1px #ffffff;
+    position: absolute;
+    top: 140px;
+    left: 555px;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    max-width: 400;
+}
 
 /*------------------------------------------------------- Testimonials*/
 
