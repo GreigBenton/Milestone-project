@@ -56,6 +56,31 @@
 
 /*------------------------------------------------------- Headings*/
 
+/*------------------------------------------------------- Footer*/
+
+a {
+    text-decoration: none;
+    color: #979999;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.footer-icon {
+    font-family: Cinzel; sans-serif;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    font-size: 24px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    color: #979999;
+}
+
+.footer-container {
+    background-color: transparent;
+}
 
 
 
