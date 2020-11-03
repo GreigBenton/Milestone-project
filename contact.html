@@ -32,37 +32,27 @@
             </ul>
         </div>
     </nav>
-    <section>
-        <div class="container container-fluid">
-            <div class="row">
-                <div class="col-md">
-                    <img src="assets/images/CollabFG.jpg" class="img-fluid collab-image" alt="F&G design">
-                </div>
-                <div class="col-md">
-                    <h3 class="collab-heading text-center">Want to work with us?</h3>
-                    <h5 class="collab-heading text-center">Let us know down below...</h5>
-                    <form>
-                        <div class="form-group">                           
-                            <input type="email" class="form-control" id="emailaddress" placeholder="Email Address" required />
-                        </div>
-                        <div class="form-group">                       
-                            <select class="form-control" id="queerysubject" placeholder="How can we help?" required>
-                            <option>Full home makeover</option>
-                            <option>Individual room makeover</option>
-                            <option>Design plan and consultation</option>
-                            <option>Bespoke furniture</option>
-                            <option>Antique Sourcing</option>
-                            <option>Design and inspiration</option>   
-                            <option>Other</option>                           
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Give us a little bit more info (the more the better)"></textarea>
-                        </div>
-                    </form>                   
+    <section class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h3 class="landing-page-main-heading">Want to work with us?</h3>
+                <h5 class="landing-page-main-heading">Let us know down below</h5>
+                <div class="collab-form">
+                <form>
+                    <div class="form-group">
+                        <input type="email" name="emailaddress" id="emailaddress" class= "form-control landing-page-text" placeholder="Email Address" required />
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control landing-page-text" id="moreinfo" placeholder="Tell us more (the more the better)" rows="5"></textarea>
+                    </div>
+                    <input type="submit" value="Submit" class="text-center"></form>
                 </div>
             </div>
+            <div class="col">
+                <img src="assets/images/CollabFG.jpg" class="img-fluid contact-image" alt="F&G interior design">
+            </div>
         </div>
+    </section>
     <footer class="container-fluid border-top border-dark">
         <div class="footer-container">
             <div class="row">
