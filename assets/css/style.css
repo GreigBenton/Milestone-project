@@ -3,7 +3,7 @@
 
 /*------------------------------------------------------- Nav*/
 .navbar {
-    background-color: transparent;
+    background-color: #fdf5e6;
 }
 
 .navbar-brand {
@@ -31,36 +31,6 @@
     width: 100%;
 }
 
-.landingcta {
-    font-family: Spartan; sans-serif;
-    font-size: 235%;
-    font-weight: 300;
-    color: #000000;
-    text-shadow: 1px 1px #ffffff;
-    position: absolute;
-    top: 140px;
-    left: 555px;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    max-width: 400;
-}
-
-.landing-page-heading-right {
-    font-family: Spartan; sans-serif;
-    font-weight: 400;
-    padding-left: 60px;
-    padding-top: 10px;
-    font-size: 110%
-}
-
-.landing-page-heading-left {
-    font-family: Spartan; sans-serif;
-    font-weight: 400;
-    padding-left: 150px;
-    padding-top: 10px;
-    font-size: 110%
-}
-
 .landing-page-main-heading {
     font-family: Spartan; sans-serif;
     font-weight: 400;
@@ -70,26 +40,43 @@
     text-align: center;
 }
 
+.landing-page-heading-right {
+    font-family: Spartan; sans-serif;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.landing-page-heading-left {
+    font-family: Spartan; sans-serif;
+    font-weight: 400;
+    padding-top: 10px;
+    float: right;
+    padding-right: 50px;
+}
+
 .landing-page-text {
     font-family: Spartan; sans-serif;
     font-weight: 200;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .landing-page-text-right {
     font-family: Spartan; sans-serif;
     font-weight: 200;
-    padding-left: 100px;
     padding-top: 10px;
-    float: left;
     padding-bottom: 50px;
+    padding-left: 60px;
 }
 
 .landing-page-text-left {
     font-family: Spartan; sans-serif;
     font-weight: 200;
-    padding-left: 190px;
     padding-top: 10px;
     padding-bottom: 50px;
+    float: right;
+    padding-right: 50px;
 }
 
 
@@ -117,7 +104,7 @@
 .main-quote {
     font-family: Spartan; sans-serif;
     font-weight: 200;  
-    text-align: center; 
+    float: left;
 }
 
 .quote-name {
@@ -125,6 +112,7 @@
     font-size: 120%;
     text-align: center;
     padding-bottom: 25px;
+    float: left;
 }
 
 /*------------------------------------------------------- Work*/
@@ -134,15 +122,15 @@
     color: #000000;   
     font-weight: 400;
     padding-top: 50px;
-    padding-left: 110px;
+    padding-left: 55px;
     padding-bottom: 30px;
 }
 
 .philosophy-para {
     font-family: Spartan; sans-serif;
     font-weight: 300;
-    padding-left: 110px;
-    padding-right: 110px;
+    padding-left: 55px;
+    padding-right: 55px;
     padding-botom: 40px;
 }
 
@@ -151,21 +139,20 @@
     height: 300px;
     background-size: cover;
     text-align: center;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    padding-left: 30px;
-    transition: transform .2s; 
+    padding: 30px 30px 30px 30px;
+    transition: transform .2s;
+    margin: 0 auto; 
 }
 
 .work-history-image-bottom {
-    width:  300px;
+    width:  275px;
     height: 300px;
     background-size: cover;
-    text-align: center;
     padding-bottom: 50px;
     padding-top: 30px;
     padding-left: 30px;
-    transition: transform .2s
+    transition: transform .2s; 
+    margin: 0 auto;
 }
 
 .work-history-image:hover {
@@ -200,42 +187,47 @@ a:hover {
 }
 
 .footer-container {
-    background-color: transparent;
+    background-color: #fdf5e6;
 }
 
 /*------------------------------------------------------- Contact*/
 
 .form-group {
-    max-width: 450px;
-    margin-left: 90px;
+    margin: 0 auto;
+    max-width: 70%;
 }
 
 .contact-heading {
     font-family: Spartan; sans-serif;
     font-weight: 400;
-    padding-top: 100px;
+    padding-top: 75px;
 }
 
 .contact-sub-heading {
     font-family: Spartan; sans-serif;
     font-weight: 400;
-    padding-bottom: 75px;
+    padding-bottom: 50px;
 }
 
 input[type=submit]{
     font-family: Spartan; sans-serif;
+    margin-top: 10px;
 }
 
-.contact-img {
-    background-repeat: no-repeat; 
-    background-position: center;
-    background-size: cover;
+.form-text {
+    font-family: Spartan; sans-serif;
+    font-weight: 200;
 }
 
 .end-quote {
     font-family: Cinzel; sans-serif;
-    font-weight: 300;
-    padding-top: 50px;
-    max-width: 520px;
-    padding-left: 120px;
+    font-weight: 400;
+    padding-top: 100px;
+}
+
+.end-quote-name {
+    font-family: Cinzel; sans-serif;
+    font-weight: 500;
+    padding-top: 25px;
+    padding-bottom: 100px;
 }
