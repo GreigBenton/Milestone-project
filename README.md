@@ -48,7 +48,7 @@ The project is split into 4 separate pages with a structure that is laid out in 
 
 ---
 
-#### Technologies/Languages Used
+## Technologies/Languages Used
 
 * [HTML](https://html.spec.whatwg.org/#is-this-html5?) 
     * Used to write the fundamental content of the project
@@ -64,7 +64,7 @@ The project is split into 4 separate pages with a structure that is laid out in 
 
 ---
 
-#### Testing
+## Testing
 
 1. Navigation
     1. Tested all navigation links from "Home" page ensuring that each loads the specified page
@@ -90,5 +90,31 @@ The project is split into 4 separate pages with a structure that is laid out in 
     2. Attempt to submit the empty form and verify that required fields error message appears
     3. Attempt to submit form containing invalid email and verify that correct error message appears
     4. Attempt to submit form with valid inputs and verify no error message appears
+
+---
+
+## Deployment
+
+1. Added .html and assets to staging area as project developed
+2. Commited project at key points with accompanying messages to explain key changes/updates
+3. Pushed code and project github to maintain it's integrity and keep work secure
+4. From the repository settings hosted the Milestone project to GitHub pages using the master branch
+
+#### Differences between deployed and development versions
+
+* There are no differences upon testing between deployed version of the project and the development version
+
+---
+
+## Credits
+
+#### Content 
+* All content within this project was written and conceived personally
+
+#### Media
+* All media including images and prop work history were taken from [Instagram](www.instagram.com) notably the [interior.lust](https://www.instagram.com/interior.lust/?hl=en) account.
+
+#### Inspiration
+* I did not take direct inspiration from any one source but instead have been inspired by Interior Design and minimalist web pages in general
 
 ---
