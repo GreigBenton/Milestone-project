@@ -18,7 +18,7 @@ The F&G website is a place for new homeowners and residents of many years to com
 
 * As a new user I want to quickly and easily access a contact form so that I can communicate directly with the F&G team and discuss further collaboration
 
-The project is split into 4 separate pages with a structure that is laid out in this [wireframe](https://pdfhost.io/v/2XSNlW8pQ_fgdesignwireframepdf.pdf). 
+The project is split into 4 separate pages with a structure that is laid out in this [wireframe](https://pdfhost.io/edit?doc=37fec47d-c6f7-4f79-a561-1c5a574dc6c1).
 
 ---
 
@@ -67,14 +67,28 @@ The project is split into 4 separate pages with a structure that is laid out in 
 #### Testing
 
 1. Navigation
-    1. Tested all navigation links from Home page ensuring that each loads the specified page
-    2. Tested all navigation links from Testimonials page ensuring that each loads the specified page
-    3. Tested all navigation links from Our Work page ensuring that each loads the specified page
-    4. Tested all navigation links from Contact Us page ensuring that each loads the specified page
+    1. Tested all navigation links from "Home" page ensuring that each loads the specified page
+    2. Tested all navigation links from "Testimonials" page ensuring that each loads the specified page
+    3. Tested all navigation links from "Our Work" page ensuring that each loads the specified page
+    4. Tested all navigation links from "Collaborate" page ensuring that each loads the specified page
     5. Make sure that the link to the current page  is Black and that the other navigation links are Gray
     6. Hover over navigation links on each page to make sure they change color on hover state
-    
+
 
 2. Social Media links
-    1. Hover over Social Media links on each page to make sure they change color on hover state
-    2. 
+    1. Visit each page that contains Social Media link via footer
+    2. Hover over Social Media links on each page to make sure they change color on hover state
+    3. Visit each Social media link from each project page to make sure the correct subsequent page was opened in a new tab
+
+3. "Testimonals" and "Our Work" images
+    1. Visit "Testimonial" and "Our Work" pages
+    2. Hover over images on both pages to ensure that each image increases by the correct proportion when on hover state
+    3. Change viewport size on each page to make sure each image changes to an adequate and appropriate size for the device size
+
+4. Contact form
+    1. Visit "Collaborate" page
+    2. Attempt to submit the empty form and verify that required fields error message appears
+    3. Attempt to submit form containing invalid email and verify that correct error message appears
+    4. Attempt to submit form with valid inputs and verify no error message appears
+
+---
