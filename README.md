@@ -10,13 +10,23 @@ The F&G website is a place for new homeowners and residents of many years to com
 
 * As a new user I want to be able to quickly gain inspiration from strong visuals and see a representation of previous works and gather more information regarding services provided so that I can determine if F&G meets my personal needs
 
+![User story image one](https://imgur.com/CHHOl55)
+
 * As a new user I want to be able to traverse and move around the site effortlessly with clear separation between pages so that I can access all information on the site
+
+![User story two image](https://ibb.co/LPCW7Bn)
 
 * As a new user I want to be able to find and access the Social Media profiles of the F&G team to be able to keep up to date with news and new features
 
+![User story three image](https://ibb.co/Qkc6Rwn)
+
 * As a new user I want to be able to view feedback from previous users so that I can gague the quality and professionalism of the service provided
 
+![User story four image](https://ibb.co/dWWh86d)
+
 * As a new user I want to quickly and easily access a contact form so that I can communicate directly with the F&G team and discuss further collaboration
+
+![User story five image](https://ibb.co/vxhKwVT)
 
 The project is split into 4 separate pages with a structure that is laid out in this [wireframe](https://pdfhost.io/edit?doc=37fec47d-c6f7-4f79-a561-1c5a574dc6c1).
 
@@ -67,11 +77,11 @@ The project is split into 4 separate pages with a structure that is laid out in 
 ## Testing
 
 1. Navigation
-    1. Tested all navigation links from "Home" page ensuring that each loads the specified page
-    2. Tested all navigation links from "Testimonials" page ensuring that each loads the specified page
-    3. Tested all navigation links from "Our Work" page ensuring that each loads the specified page
-    4. Tested all navigation links from "Collaborate" page ensuring that each loads the specified page
-    5. Make sure that the link to the current page  is Black and that the other navigation links are Gray
+    1. Click all navigation links from "Home" page ensuring that each loads the specified page
+    2. Click all navigation links from "Testimonials" page ensuring that each loads the specified page
+    3. Click all navigation links from "Our Work" page ensuring that each loads the specified page
+    4. Click all navigation links from "Collaborate" page ensuring that each loads the specified page
+    5. Make sure that the link to the current page is Black and that the other navigation links are Gray
     6. Hover over navigation links on each page to make sure they change color on hover state
 
 
