@@ -10,23 +10,23 @@ The F&G website is a place for new homeowners and residents of many years to com
 
 * As a new user I want to be able to quickly gain inspiration from strong visuals and see a representation of previous works and gather more information regarding services provided so that I can determine if F&G meets my personal needs
 
-![User story image one](https://imgur.com/CHHOl55)
+ <img width="362" alt="userstoryimg1" src="https://user-images.githubusercontent.com/68287350/99456535-7ba4f580-2921-11eb-98ee-1e99b9b26164.png">
 
 * As a new user I want to be able to traverse and move around the site effortlessly with clear separation between pages so that I can access all information on the site
 
-![User story two image](https://ibb.co/LPCW7Bn)
+<img width="1234" alt="userstoryimg2" src="https://user-images.githubusercontent.com/68287350/99456710-b60e9280-2921-11eb-8b96-44308f04ad01.png">
 
 * As a new user I want to be able to find and access the Social Media profiles of the F&G team to be able to keep up to date with news and new features
 
-![User story three image](https://ibb.co/Qkc6Rwn)
+<img width="371" alt="userstoryimg3" src="https://user-images.githubusercontent.com/68287350/99456715-b870ec80-2921-11eb-99e6-9059a2b84a08.png">
 
 * As a new user I want to be able to view feedback from previous users so that I can gague the quality and professionalism of the service provided
 
-![User story four image](https://ibb.co/dWWh86d)
+<img width="1081" alt="userstoryimg4" src="https://user-images.githubusercontent.com/68287350/99456718-bb6bdd00-2921-11eb-9c8c-0e9527c6c957.png">
 
 * As a new user I want to quickly and easily access a contact form so that I can communicate directly with the F&G team and discuss further collaboration
 
-![User story five image](https://ibb.co/vxhKwVT)
+<img width="1171" alt="userstoryimg5" src="https://user-images.githubusercontent.com/68287350/99456721-bd35a080-2921-11eb-9ec5-7c8ccf2fd7b1.png">
 
 The project is split into 4 separate pages with a structure that is laid out in this [wireframe](https://pdfhost.io/edit?doc=37fec47d-c6f7-4f79-a561-1c5a574dc6c1).
 
