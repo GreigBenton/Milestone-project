@@ -12,7 +12,7 @@
 }
 
 .navbar-brand {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-size: 130%;
     font-weight: bold;
     padding-left: 50px;
@@ -20,9 +20,8 @@
 }
 
 .nav-item {
-    font-family: Cinzel; sans-serif;
+    font-family: "Cinzel"; sans-serif;
     padding-left: 100px;
-    font-color: #000000;
 }
 
 .active {
@@ -39,7 +38,7 @@
 }
 
 .landing-page-main-heading {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 400;
     padding-left: 30px;
     padding-top: 50px;
@@ -49,7 +48,7 @@
 }
 
 .landing-page-heading-right {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 400;
     padding-top: 10px;
     padding-left: 50px;
@@ -57,7 +56,7 @@
 }
 
 .landing-page-heading-left {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 400;
     padding-top: 10px;
     float: right;
@@ -66,14 +65,14 @@
 }
 
 .landing-page-text {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
     padding-left: 50px;
     padding-right: 50px;
 }
 
 .landing-page-text-right {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
     padding-top: 10px;
     padding-bottom: 25px;
@@ -81,7 +80,7 @@
 }
 
 .landing-page-text-left {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
     padding-top: 10px;
     padding-bottom: 25px;
@@ -93,14 +92,14 @@
 /*------------------------------------------------------- Testimonials*/
 
 .testimonial-container {
-    height: 300px
-    width: 300px
+    height: 300px;
+    width: 300px;
 }
 
 .testimonial-image {
-    width:  250px;
+    width: 250px;
     height: 250px;
-    background-size: cover
+    background-size: cover;
     padding: 50px 50px 50px 50px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -140,7 +139,7 @@
 }
 
 .main-quote {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;  
     float: left;
 }
@@ -148,12 +147,11 @@
 @media screen and (max-width: 375px) {
     .main-quote {
         text-align: center;
-        float: center;
     }
 }
 
 .quote-name {
-    font-family: Cinzel; sans-serif;
+    font-family: "Cinzel"; sans-serif;
     font-size: 120%;
     text-align: center;
     padding-bottom: 25px;
@@ -163,7 +161,7 @@
 /*------------------------------------------------------- Work*/
 
 .work-history-heading {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     color: #000000;   
     font-weight: 400;
     padding-top: 50px;
@@ -173,11 +171,11 @@
 }
 
 .philosophy-para {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
     padding-left: 55px;
     padding-right: 55px;
-    padding-botom: 40px;
+    padding-bottom: 40px;
 }
 
 .work-history-image {
@@ -240,7 +238,7 @@ a:hover {
 }
 
 .footer-icon {
-    font-family: Cinzel; sans-serif;
+    font-family: "Cinzel"; sans-serif;
     text-align: center;
     width: 30px;
     font-size: 24px;
@@ -261,7 +259,7 @@ a:hover {
 }
 
 .contact-heading {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 400;
     padding-top: 75px;
     text-shadow: 2px 2px #fff;
@@ -274,7 +272,7 @@ a:hover {
 }
 
 .contact-sub-heading {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 400;
     padding-bottom: 50px;
     text-shadow: 2px 2px #fff;
@@ -288,35 +286,35 @@ a:hover {
 }
 
 input[type=submit]{
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     margin-top: 10px;
 }
 
 .form-text {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
 }
 
 .end-quote {
-    font-family: Cinzel; sans-serif;
+    font-family: "Cinzel"; sans-serif;
     font-weight: 400;
     padding-top: 80px;
     text-shadow: 2px 2px #fff;
 }
 
 .end-quote-name {
-    font-family: Cinzel; sans-serif;
+    font-family: "Cinzel"; sans-serif;
     font-weight: 400;
     padding-top: 25px;
     padding-bottom: 75px;
 }
 
 .end-para {
-    font-family: Spartan; sans-serif;
+    font-family: "Spartan"; sans-serif;
     font-weight: 200;
     padding-top: 40px;
     padding-left: 55px;
     padding-right: 55px;
-    padding-botom: 40px;
+    padding-bottom: 40px;
     text-align: center;
 }

@@ -120,6 +120,7 @@ The project is split into 4 separate pages with a structure that is laid out in 
 
 #### Content 
 * All content within this project was written and conceived personally
+* The css code for the text shadow styling was taken from [w3schools.com](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp).
 
 #### Media
 * All media including images and prop work history were taken from [Instagram](www.instagram.com) notably the [interior.lust](https://www.instagram.com/interior.lust/?hl=en) account.
