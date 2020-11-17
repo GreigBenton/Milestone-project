@@ -91,16 +91,10 @@
 
 /*------------------------------------------------------- Testimonials*/
 
-.testimonial-container {
-    height: 300px;
-    width: 300px;
-}
-
 .testimonial-image {
     width: 250px;
     height: 250px;
     background-size: cover;
-    padding: 50px 50px 50px 50px;
     margin-top: 50px;
     margin-bottom: 50px;
     transition: transform .2s;    
